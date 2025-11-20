@@ -1,9 +1,38 @@
-# genshin_survey_analysis
+# Genshin Impact Character Popularity Survey & Analysis
+
+This repository contains code, notebooks, and results from a multi-year character popularity survey project for the game [*Genshin Impact*](https://genshin.hoyoverse.com/en/). Since 2021, I have conducted annual surveys within a private Discord community (typically 10–20 participants), collecting data on favorite characters, character rankings, and player preferences.
+
 This repository is a collection of analysis scripts for yearly [Genshin Impact](https://genshin.hoyoverse.com/en/) character surveys that I conducted in a Discord server following completion of each Version of Genshin. Data were collected via [Google Forms](https://workspace.google.com/products/forms/) and [TierMaker](https://tiermaker.com/create/genshin-impact-characters-13-792389) and aggregated in Google Sheets, then imported, cleaned and analyzed in Python (Google CoLab).
 
-For the older surveys from 2021 and 2022 done in R, refer to [this repository](https://github.com/fireteamtorch/genshin_analysis/tree/main).
+Data can be made available upon request.
 
-## Previous years' survey results
+## Selected Project Features
+
+- **Survey Design & Collection:**  
+  Annual survey data were collected via Google Forms and [TierMaker](https://tiermaker.com/create/genshin-impact-characters-13-792389) and aggregated in Google Sheets, then imported, cleaned and analyzed in Python (Google CoLab).
+
+- **Aggregate character Ranks & Tiers:**  
+  Full-group character rankings relative to others and as separated into discrete "letter grade" tiers.
+
+- **Longitudinal Trend Analysis:**  
+  Tracking character popularity year over year to observe shifts, new character introductions, and evolving player sentiment.
+
+- **Attribute Correlation:**  
+  Comparing character popularity with features such as vision, weapon type, region, rarity, and body type.
+
+- **User-Level Insights:**  
+  Examining how individual user preferences compare to other users and change longitudinally over years.
+
+- **Exploratory Machine Learning:**  
+  Some simple clustering / feature decomposition models to examine deeper trends within character rankings.
+
+## Repository Contents
+
+- `notebooks/` – Main analysis notebooks (Python / Google Colab), separated by "Volume":
+  - `notebooks/Vol. 3` - Analysis performed right before the Fontaine release (4.0)
+  - `notebooks/Vol. 4` - Analysis performed right before the Natlan release (5.0)
+
+## Previous survey results
 ### 2023
 [Slide deck](https://docs.google.com/presentation/d/1u2zS631AVk9xZFVrhSQG1KyRo0pz29Q7vgkBMVdTVxs/edit?usp=drive_link) | [Presentation video](https://youtu.be/Ku_r5NrC5hs)
 ### 2024
