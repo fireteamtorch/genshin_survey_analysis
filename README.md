@@ -2,8 +2,6 @@
 
 This repository contains code, notebooks, and results from a multi-year character popularity survey project for the game [*Genshin Impact*](https://genshin.hoyoverse.com/en/). Since 2021, I have conducted annual surveys within a private Discord community (typically 10–20 participants), collecting data on favorite characters, character rankings, and player preferences.
 
-This repository is a collection of analysis scripts for yearly [Genshin Impact](https://genshin.hoyoverse.com/en/) character surveys that I conducted in a Discord server following completion of each Version of Genshin. Data were collected via [Google Forms](https://workspace.google.com/products/forms/) and [TierMaker](https://tiermaker.com/create/genshin-impact-characters-13-792389) and aggregated in Google Sheets, then imported, cleaned and analyzed in Python (Google CoLab).
-
 Data can be made available upon request.
 
 ## Selected Project Features
