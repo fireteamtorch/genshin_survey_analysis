@@ -9,13 +9,13 @@ Data can be made available upon request.
 - **Survey Design & Collection:**  
   Annual survey data were collected via Google Forms and [TierMaker](https://tiermaker.com/create/genshin-impact-characters-13-792389) and aggregated in Google Sheets, then imported, cleaned and analyzed in Python (Google CoLab).
 
-- **Aggregate character Ranks & Tiers:**  
+- **Aggregate Character Ranks & Tiers:**  
   Full-group character rankings relative to others and as separated into discrete "letter grade" tiers.
 
 - **Longitudinal Trend Analysis:**  
   Tracking character popularity year over year to observe shifts, new character introductions, and evolving player sentiment.
 
-- **Attribute Correlation:**  
+- **Attribute Effects:**  
   Comparing character popularity with features such as vision, weapon type, region, rarity, and body type.
 
 - **User-Level Insights:**  
