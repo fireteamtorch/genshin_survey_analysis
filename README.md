@@ -1,6 +1,8 @@
 # Genshin Impact Character Popularity Survey & Analysis
 
-This repository contains code, notebooks, and results from a multi-year character popularity survey project for the game [*Genshin Impact*](https://genshin.hoyoverse.com/en/). Since 2021, I have conducted annual surveys within a private Discord community (typically 10–20 participants), collecting data on favorite characters, character rankings, and player preferences.
+Python notebooks and results from a multi-year character popularity survey project for the game [*Genshin Impact*](https://genshin.hoyoverse.com/en/). Since 2021, I have conducted annual surveys within a private Discord community (typically 10–20 participants), collecting data on favorite characters, character rankings, and player preferences.
+
+This repository covers the analysis since 2023; please refer to [this older repository](https://github.com/fireteamtorch/genshin_analysis) for the 2021-2022 results.
 
 Data can be made available upon request.
 
